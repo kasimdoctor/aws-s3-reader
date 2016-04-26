@@ -1,9 +1,9 @@
 
 aws:
    s3:
-      bucketName: ewe-cs-tripadv-scrapper-test
-      accessKey: AKIAIOKD5MXAARNE3LXQ
-      secretKey: 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
+      bucketName:
+      accessKey:
+      secretKey:
 
       configuration:
          delimiter: /
